@@ -1,0 +1,6 @@
+{
+  "name": "FinanceGuard AI – Smart Budget & Expense Controller",
+  "description": "An intelligent AI-powered personal finance management system with real-time budget tracking, spending pattern analysis, ML expense predictions, and smart saving recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
